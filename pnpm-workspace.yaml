@@ -1,3 +1,6 @@
+packages:
+  - 'lib/generated/prisma'
+
 ignoredBuiltDependencies:
   - '@clerk/shared'
   - '@prisma/client'
